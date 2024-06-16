@@ -11,6 +11,6 @@
 
 * [Name searching](https://github.com/Lydia-bot/MystanCodeProject/tree/main/stanCode_project/name_searching)
 	* data structure
- * 
+
 * [Bouncing Ball](https://github.com/Lydia-bot/MystanCodeProject/tree/main/stanCode_project/break_out_game)
 	* animation
